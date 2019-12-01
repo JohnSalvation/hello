@@ -2,3 +2,4 @@ Bla bla bla
 Hello!
 
 Hello, git!
+Hello, git rebase!
